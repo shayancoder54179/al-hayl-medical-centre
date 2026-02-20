@@ -55,7 +55,7 @@ export function Hero() {
               {!heroImgError && (
                 <Image
                   src="/medical_reception.png"
-                  alt="Al Hayl Medical Centre reception"
+                  alt="Al Hayl Medical Center reception"
                   fill
                   className="object-cover object-center"
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -65,7 +65,7 @@ export function Hero() {
               )}
               {heroImgError && (
                 <div className="absolute inset-0 flex items-center justify-center text-[#1B4FD8] text-lg font-medium px-4">
-                  Al Hayl Medical Centre
+                  Al Hayl Medical Center
                 </div>
               )}
             </div>

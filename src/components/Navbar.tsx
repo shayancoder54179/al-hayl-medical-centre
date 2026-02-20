@@ -33,7 +33,7 @@ export function Navbar() {
           <Link
             href="#home"
             className="flex items-center gap-2 shrink-0"
-            aria-label="Al Hayl Medical Centre Home"
+            aria-label="Al Hayl Medical Center Home"
           >
             <Image
               src="/alhayl_logo.png"
@@ -43,7 +43,7 @@ export function Navbar() {
               className="h-9 w-9 sm:h-10 sm:w-10 object-contain shrink-0"
             />
             <span className="font-bold text-[#111827] text-lg sm:text-xl">
-              Al Hayl Medical Centre
+              Al Hayl Medical Center
             </span>
           </Link>
 

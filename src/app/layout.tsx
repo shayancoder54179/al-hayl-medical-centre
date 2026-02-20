@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Al Hayl Medical Centre | Trusted Healthcare in Fujairah, UAE",
+  title: "Al Hayl Medical Center | Trusted Healthcare in Fujairah, UAE",
   description:
     "Comprehensive medical care for you and your family — General Practice, Dental Surgery, Home Health Care and more. Serving Al Hayl, Fujairah.",
   icons: {

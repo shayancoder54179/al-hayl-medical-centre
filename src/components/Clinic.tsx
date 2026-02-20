@@ -19,7 +19,7 @@ export function Clinic() {
             {!receptionImgError && (
               <Image
                 src="/medical_reception.png"
-                alt="Al Hayl Medical Center reception"
+                alt="Al Hayl Medical Centre reception"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -34,7 +34,7 @@ export function Clinic() {
           </ScrollReveal>
           <ScrollReveal as="div" className="order-1 lg:order-2 space-y-6">
             <h2 className="text-2xl sm:text-3xl font-bold text-[#111827]">
-              Visit Us At Al Hayl Medical Center
+              Visit Us At Al Hayl Medical Centre
             </h2>
             <div className="text-gray-600 space-y-2">
               <p className="font-medium text-[#111827]">Address</p>

@@ -16,7 +16,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <ScrollReveal as="div" className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 lg:gap-12">
           <div>
-            <h3 className="font-bold text-lg">Al Hayl Medical Center</h3>
+            <h3 className="font-bold text-lg">Al Hayl Medical Centre</h3>
             <p className="mt-2 text-white/90 text-sm">Healing Hands, Caring Hearts</p>
           </div>
           <div>
@@ -46,7 +46,7 @@ export function Footer() {
           </div>
         </ScrollReveal>
         <ScrollReveal as="div" className="mt-10 pt-8 border-t border-white/20 text-center text-sm text-white/80">
-          © 2026 Al Hayl Medical Center
+          © 2026 Al Hayl Medical Centre
         </ScrollReveal>
       </div>
     </footer>

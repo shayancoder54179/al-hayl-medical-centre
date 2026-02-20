@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Al Hayl Medical Center | Trusted Healthcare in Fujairah, UAE",
   description:
     "Comprehensive medical care for you and your family — General Practice, Dental Surgery, Home Health Care and more. Serving Al Hayl, Fujairah.",
+  icons: {
+    icon: "/alhayl_logo.png",
+  },
 };
 
 export default function RootLayout({

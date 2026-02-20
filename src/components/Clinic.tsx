@@ -85,12 +85,14 @@ export function Clinic() {
             </a>
           </ScrollReveal>
         </div>
-        <div className="mt-10 w-full min-w-0 -mx-4 rounded-none sm:mx-0 sm:rounded-xl overflow-hidden shadow-md">
+        <div
+          className="mt-10 rounded-xl shadow-md"
+          style={{ width: "100%", maxWidth: "100%", overflow: "hidden" }}
+        >
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.097999279811!2d56.26924407523174!3d25.098543777774548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4ff3de80f0cdb%3A0xf5e888991ffc123d!2sAl%20Hayl%20Medical%20Centre%20LLC!5e0!3m2!1sen!2sae!4v1771616342004!5m2!1sen!2sae"
-            width="100%"
             height="350"
-            style={{ border: 0 }}
+            style={{ border: 0, width: "100%", maxWidth: "100%" }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
